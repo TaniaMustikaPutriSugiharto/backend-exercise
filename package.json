@@ -1,0 +1,13 @@
+{
+  "name": "express-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tania",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
